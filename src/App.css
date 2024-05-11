@@ -1,0 +1,53 @@
+.basic__margin-padding {
+  margin: 5px;
+  padding: 5px;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.addButton {
+  display: flex;
+  justify-content: end;
+  padding-right: 20px;
+}
+
+.todoList {
+  margin-top: 15px !important;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 40px;
+}
+
+.todoList_main {
+  border: 1px solid grey;
+  padding: 15px;
+  width: 850px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.item_row {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.item_col {
+  display: flex;
+  justify-content: space-between;
+}
+
+.todo_modal_row {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.todo_icon {
+  font-size: 15px;
+  margin: 5px;
+  padding: 5px;
+}

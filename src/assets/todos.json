@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cac3e7ea-4d75-474a-b589-918418b447fa",
+    "title": "Fix title bug",
+    "description": "title is not showing correctly",
+    "completed": false
+  },
+  {
+    "id": "cac3e7ea-4d75-47dee-b589-918418b447fa",
+    "title": "Implement new persisting feature",
+    "description": "store data in local storage and retrieve it",
+    "completed": false
+  },
+  {
+    "id": "cac3e7ea-4d75-4a44-b589-918418b447fa",
+    "title": "Go for a walk",
+    "description": "walk for 30 minutes and enjoy the fresh air",
+    "completed": true
+  },
+  {
+    "id": "cac3e7ea-4d75-4caa-b589-918418b447fa",
+    "title": "Go to Grocery Store",
+    "description": "Buy some groceries for the week",
+    "completed": false
+  }
+]
